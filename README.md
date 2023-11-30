@@ -25,6 +25,19 @@
 7. Visualized sales trends for special occasions like festivals using a matrix visualization.
 8. Visualized cumulative sales for each month across all years to calculate Year-on-Year Sales Growth.
 
+## Usage
+1. Clone the repository: git clone https://github.com/RavinaKarnik/Superstore-Retail-Business
+2. Open the Excel files in Microsoft Excel or any compatible spreadsheet software.
+3. Navigate to the respective reports to access the analysis and insights.
+4. Customize the reports as per your requirements by modifying the data sources or adding additional calculations.
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
+
+## Acknowledgements
+Superstore dataset was used for this project, providing valuable sales and financial data.
+Special thanks to the contributors and developers of Excel,Power bi and related tools for enabling powerful data analysis and reporting capabilities.
+
 ### Tools used :
 1. Excel
 2. Power bi
